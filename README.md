@@ -98,3 +98,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 https://www.storyblok.com/tp/gatsby-multilanguage-website-tutorial#add-the-storyblok-plugin
 
+https://codeburst.io/build-a-blog-using-gatsby-js-react-8561bfe8fc91
